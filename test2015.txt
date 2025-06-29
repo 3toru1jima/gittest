@@ -13,3 +13,4 @@ d
 f
 g
 h
+WER
