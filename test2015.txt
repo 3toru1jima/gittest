@@ -13,8 +13,5 @@ d
 f
 g
 h
-<<<<<<< HEAD
 i
 j
-=======
->>>>>>> conflict_test_another
