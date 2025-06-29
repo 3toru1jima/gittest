@@ -1,12 +1,18 @@
 1
 2
 3
-ab
 a
 ab
 a
 c
+<<<<<<< HEAD
 de
 1
 2
 3
+=======
+d
+f
+g
+h
+>>>>>>> conflict_test
